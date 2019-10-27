@@ -1,0 +1,1 @@
+//symbols: gerar indentificador único
